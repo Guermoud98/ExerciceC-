@@ -1,0 +1,15 @@
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\bin\Debug\net6.0\TP4_Heritage.exe
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\bin\Debug\net6.0\TP4_Heritage.deps.json
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\bin\Debug\net6.0\TP4_Heritage.runtimeconfig.json
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\bin\Debug\net6.0\TP4_Heritage.dll
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\bin\Debug\net6.0\TP4_Heritage.pdb
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.dll
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\refint\TP4_Heritage.dll
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.pdb
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\TP4_Heritage.genruntimeconfig.cache
+C:\Users\Administrateur\source\repos\TP4_Heritage\TP4_Heritage\obj\Debug\net6.0\ref\TP4_Heritage.dll
